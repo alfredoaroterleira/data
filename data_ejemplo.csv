@@ -1,0 +1,21 @@
+Ubigeo,Departamento,Provincia,Distrito,Personas,Monto,Categoria,Categoria_ord,Logica
+150122,Lima,Lima,Miraflores,12,"12,4",1,Inicial,0
+80110,Cusco,Cusco,San Sebastián,54,"23,5",2,Secundaria,1
+40115,Arequipa,Arequipa,Paucarpata,34,"12,56",4,Superior,1
+60101,Cajamarca,Cajamarca,Cajamarca,45,"17,87",6,Inicial,1
+250104,Ucayali,Coronel Portillo,Yarinacocha,47,"87,65",2,Secundaria,0
+220901,San Martín,San Martín,Tarapoto,67,"23,23",4,Inicial,0
+50101,Ayacucho,Huamanga,Huamanga,98,"45,67",5,Superior,1
+220101,San Martín,Moyobamba,Moyobamba,31,"45,86",1,Primaria,0
+170101,Madre de Dios,Tambopata,Tambopata,54,"67,89",3,Inicial,
+210101,Puno,Puno,Puno,45,"12,45",3,Primaria,0
+140101,Lambayeque,Chiclayo,Chiclayo,63,"84,67",4,Secundaria,1
+240101,Tumbes,Tumbes,Tumbes,79,"34,97",6,Secundaria,1
+160101,Loreto,Maynas,Iquitos,45,"47,14",6,Inicial,0
+20101,Áncash,Huaraz,Huaraz,12,"74,61",5,Primaria,
+120101,Junín,Huancayo,Huancayo,37,"34,65",2,Superior,0
+250101,Ucayali,Coronel Portillo,Callería,19,"67,86",3,Superior,1
+150144,Lima,Lima,Santa Anita,64,"95,59",1,Primaria,0
+120601,Junín,Satipo,Satipo,,"35,86",4,Secundaria,0
+211101,Puno,San Román,Juliaca,82,"45,89",5,Inicial,1
+120201,Junín,Chanchamayo,Chanchamayo,63,"12,38",6,Secundaria,0
